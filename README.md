@@ -21,7 +21,7 @@ But the most important, Im Someone Who Lo❤️es to Code.
 
 I am ambitious, self-motivated, resilient professional with more than 20 years of experience, with skills acquired in software development for the financial, accounting and management support areas.
 
-### What are my interests? 📖
+### What are my interests? 😎
 I have a personal and professional interest in computer programming, data science, business intelligence, machine learning, project management and information systems management in a business environment and I invest in knowledge and personal fulfillment, through constant continuous improvement.
 
 ### What i Seek? 💪
