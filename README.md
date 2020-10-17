@@ -26,3 +26,5 @@ I have a personal and professional interest in computer programming, data scienc
 
 ### What i Seek? 💪
 I seek to be an asset by combining my knowledge of computer programming with the skills acquired in the scope of business science, with the aim of promoting an integrated view of information systems with management, deepening and exploring the knowledge and technological tools that respond to the demands of the market and the expectations of the business world following the digital transformation we are experiencing.
+
+<a href="https://www.buymeacoffee.com/ruialexrib" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
