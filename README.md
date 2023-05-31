@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Rui Alex Ribeiro and Im a software developer that works with Microsoft technologies including ASP.NET Core / APIs / MVC / Winforms.
 
-But the most important, Im Someone Who Lo❤️es to Code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=5000&repeat=false&width=435&lines=But+the+most+important%2C+Im+Someone+Who+Lo%E2%9D%A4%EF%B8%8Fes+to+Code.)](https://git.io/typing-svg)
 
 I am ambitious, self-motivated, resilient professional with more than 20 years of experience, with skills acquired in software development for the financial, accounting and management support areas.
 
