@@ -27,7 +27,7 @@ I am characterized as an ambitious, self-motivated, and resilient professional w
 
 I strive to add value by combining my computer programming knowledge with the business science skills I have acquired. My aim is to promote an integrated view of information systems with management, deepening and exploring knowledge and technological tools that meet market demands and business expectations, in line with the ongoing digital transformation.
 
-I hold a Pedagogical Skills Certificate and work as a trainer in the areas of information systems, business sciences, and business intelligence.
+I also work as a certified trainer in the areas of information systems, business sciences, and business intelligence.
 
 I actively benefit from and contribute to the open-source community by consuming and providing source code, documentation, translations, and technical articles. My goal is always to increase synergies, networking, and continuous personal and professional improvement.
 
