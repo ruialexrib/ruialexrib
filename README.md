@@ -25,10 +25,6 @@ My main strength lies in the ability to **bridge technology and management**, ap
 * Decision Support Systems
 * Software Development
 
-## 🎯 Focus
-
-Transforming data into actionable insights by aligning **technology**, **business processes**, and **decision-making needs**.
-
 ---
 
 📫 Feel free to explore my repositories or connect with me.
