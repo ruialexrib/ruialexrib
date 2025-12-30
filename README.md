@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-I have a background in **Business Intelligence, Data Analysis, and Management**, combining **programming** and **artificial intelligence** to support **data-driven decision making**.
+I hold a Master’s degree in Business Intelligence and Analytics, a postgraduate degree in Enterprise Information Systems Management, and a Bachelor’s degree in Accounting and Management.
 
-My main strength lies in the ability to **bridge technology and management**, applying knowledge in software development, business intelligence, and AI to design and validate solutions that create measurable value for organisations.
+I combine programming and artificial intelligence to support data-driven decision making, bridging technology and management to deliver measurable value for organisations.
 
 ## 🧠 Core Competencies
 
