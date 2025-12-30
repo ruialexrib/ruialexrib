@@ -6,9 +6,6 @@ I have a background in **Business Intelligence, Data Analysis, and Management**,
 
 My main strength lies in the ability to **bridge technology and management**, applying knowledge in software development, business intelligence, and AI to design and validate solutions that create measurable value for organisations.
 
-> **“Talent is 1% inspiration and 99% perspiration.”** 💪
-> *Adapted from Thomas Edison*
-
 ## 🧠 Core Competencies
 
 * **C#** – Application development and integration of business systems
@@ -19,13 +16,20 @@ My main strength lies in the ability to **bridge technology and management**, ap
 
 ## 🔍 Areas of Interest
 
-* Business Intelligence & Analytics
-* Data Analysis & Visualisation
-* Artificial Intelligence & Applied AI
-* Decision Support Systems
-* Software Development
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0096FF?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A0DAD?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=pandas&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-333333?style=for-the-badge&logo=github&logoColor=white)
+![Decision Support Systems](https://img.shields.io/badge/Decision%20Support%20Systems-FF9800?style=for-the-badge&logo=databricks&logoColor=white)
+
+## 💡 Personal Motto
+
+> **“Talent is 1% inspiration and 99% perspiration.”**  
+> *Adapted from Thomas Edison*
 
 ---
 
 📫 Feel free to explore my repositories or connect with me.
+
 
