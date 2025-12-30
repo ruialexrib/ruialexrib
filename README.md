@@ -28,6 +28,14 @@ I combine programming and artificial intelligence to support data-driven decisio
 > **“Talent is 1% inspiration and 99% perspiration.”**  
 > *Adapted from Thomas Edison*
 
+## 🤝 Support / Contribute
+
+If you find my work useful and would like to support ongoing development and knowledge sharing, you can do so here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ruialexrib)
+
+Your support helps me continue building and sharing open-source projects and technical content. 🙌
+
 ---
 
 📫 Feel free to explore my repositories or connect with me.
