@@ -38,6 +38,7 @@ Your support helps me continue building and sharing open-source projects and tec
 
 ---
 
-📫 Feel free to explore my repositories or connect with me.
+📫 Feel free to explore my public [repositories](https://github.com/ruialexrib?tab=repositories) or connect with me.
+
 
 
