@@ -1,18 +1,41 @@
+<div align="center">
+
 # Hi, I'm Rui Ribeiro 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ruialexrib&color=0096FF&style=for-the-badge&label=Profile+Views)](https://github.com/ruialexrib)
+[![GitHub followers](https://img.shields.io/github/followers/ruialexrib?style=for-the-badge&color=333333&logo=github)](https://github.com/ruialexrib?tab=followers)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I hold a Master’s degree in Business Intelligence and Analytics, a postgraduate degree in Enterprise Information Systems Management, and a Bachelor’s degree in Accounting and Management.
+I hold a **Master's degree in Business Intelligence and Analytics**, a postgraduate degree in **Enterprise Information Systems Management**, and a Bachelor's degree in **Accounting and Management**.
 
-I combine programming and artificial intelligence to support data-driven decision making, bridging technology and management to deliver measurable value for organisations.
+I combine programming and artificial intelligence to support **data-driven decision making**, bridging technology and management to deliver measurable value for organisations.
 
-## 🧠 Core Competencies
+---
 
-* **C#** – Application development and integration of business systems
-* **Python** – Data analysis, automation, and applied artificial intelligence
-* **JavaScript** – Front-end logic and interaction with data-driven applications
-* **SQL Server** – Data modelling, querying, and performance optimisation
-* **Power BI** – Data modelling, DAX, and interactive dashboards for decision support
+## 🛠️ Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Data & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
 
 ## 🔍 Areas of Interest
 
@@ -23,22 +46,43 @@ I combine programming and artificial intelligence to support data-driven decisio
 ![Software Development](https://img.shields.io/badge/Software%20Development-333333?style=for-the-badge&logo=github&logoColor=white)
 ![Decision Support Systems](https://img.shields.io/badge/Decision%20Support%20Systems-FF9800?style=for-the-badge&logo=databricks&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruialexrib&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruialexrib&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
 ## 💡 Personal Motto
 
-> **“Talent is 1% inspiration and 99% perspiration.”**  
+> **"Talent is 1% inspiration and 99% perspiration."**  
 > *Adapted from Thomas Edison*
+
+---
 
 ## 🤝 Support / Contribute
 
 If you find my work useful and would like to support ongoing development and knowledge sharing, you can do so here:
 
+<div align="center">
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ruialexrib)
+
+</div>
 
 Your support helps me continue building and sharing open-source projects and technical content. 🙌
 
 ---
 
+<div align="center">
+
 📫 Feel free to explore my public [repositories](https://github.com/ruialexrib?tab=repositories) or connect with me.
 
-
+</div>
 
