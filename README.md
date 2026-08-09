@@ -52,7 +52,8 @@ I combine programming and artificial intelligence to support **data-driven decis
 
 <div align="center">
 
-![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruialexrib&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruialexrib&show_icons=true&theme=github_dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruialexrib&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
