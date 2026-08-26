@@ -18,7 +18,7 @@ I hold a **Master's degree in Business Intelligence and Analytics**, a postgradu
 
 My professional background combines **information systems, data analytics, business intelligence, and artificial intelligence**, with experience in software projects, requirements analysis, functional testing, and the development of data-driven solutions.
 
-I currently work as a Data Management & Analytics Specialist within an IT department, and also teach as an **Invited Assistant Lecturer**, focusing on intelligent systems for decision support. I am also a certified trainer in **Business Intelligence, Data Analytics, and Artificial Intelligence**.
+I currently work as a **Data Management & Analytics Specialist** within an IT department, and also teach as an **Invited Assistant Lecturer**, focusing on intelligent systems for decision support. I am also a certified trainer in **Business Intelligence, Data Analytics, and Artificial Intelligence**.
 
 My main areas of interest include **Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Business Intelligence, Data Analytics, and Generative AI**, with a particular interest in applying these technologies to real-world organisational problems.
 
