@@ -30,22 +30,10 @@ I combine **business and management knowledge with technology** to transform dat
 
 ## 🔍 Areas of Interest
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7B2CBF?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0096FF?style=for-the-badge&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A0DAD?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-00897B?style=for-the-badge&logo=huggingface&logoColor=white)
-
-![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-1F4E79?style=for-the-badge&logo=powerbi&logoColor=white)
-![Business Analytics](https://img.shields.io/badge/Business%20Analytics-1565C0?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Information Systems](https://img.shields.io/badge/Information%20Systems-455A64?style=for-the-badge&logo=databricks&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-333333?style=for-the-badge&logo=github&logoColor=white)
-![Decision Support Systems](https://img.shields.io/badge/Decision%20Support%20Systems-FF9800?style=for-the-badge&logo=databricks&logoColor=white)
-
-![Management](https://img.shields.io/badge/Management-795548?style=for-the-badge&logo=target&logoColor=white)
-![Accounting](https://img.shields.io/badge/Accounting-2E7D32?style=for-the-badge&logo=quickbooks&logoColor=white)
+- **Artificial Intelligence & Data Science** — Machine Learning, Deep Learning, Natural Language Processing
+- **Business Intelligence & Analytics** — Data Analysis, Business Analytics, Decision Support Systems
+- **Information Systems & Software Development**
+- **Management & Accounting**
 
 ---
 
