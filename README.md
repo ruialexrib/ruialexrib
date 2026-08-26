@@ -4,7 +4,7 @@
 
 *Bridging data, technology and management to support better decision-making.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOCA_AQUI_O_TEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruialexrib/)
 [![Website](https://img.shields.io/badge/Website-ruialexrib.github.io-333333?style=for-the-badge&logo=githubpages&logoColor=white)](https://ruialexrib.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4754--3015-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4754-3015)
 
