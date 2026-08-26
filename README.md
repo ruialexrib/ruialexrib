@@ -37,13 +37,6 @@ I combine **business and management knowledge with technology** to transform dat
 
 ---
 
-## 💡 Personal Motto
-
-> **"Talent is 1% inspiration and 99% perspiration."**  
-> *Adapted from Thomas Edison*
-
----
-
 ## 🤝 Support / Contribute
 
 If you find my work useful and would like to support ongoing development and knowledge sharing, you can do so here:
