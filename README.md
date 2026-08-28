@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Rui Ribeiro 👋
+# Rui Ribeiro
+
+### Data · Business Intelligence · Artificial Intelligence · Software Development
 
 *Bridging data, technology and management to support better decision-making.*
 
@@ -12,48 +14,85 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
+
+I work at the intersection of **data, technology, and management**, combining experience in **Business Intelligence, Data Analytics, Artificial Intelligence, Information Systems, and Software Development**.
 
 I hold a **Master's degree in Business Intelligence and Analytics**, a postgraduate degree in **Enterprise Information Systems Management**, and a Bachelor's degree in **Accounting and Management**.
 
-My professional background combines **information systems, data analytics, business intelligence, and artificial intelligence**, with experience in software projects, requirements analysis, functional testing, and the development of data-driven solutions.
+Professionally, I work as a **Data Management & Analytics Specialist** within an IT department. I also teach as an **Invited Assistant Lecturer**, focusing on intelligent systems for decision support, and work as a certified trainer in **Business Intelligence, Data Analytics, and Artificial Intelligence**.
 
-I currently work as a **Data Management & Analytics Specialist** within an IT department, and also teach as an **Invited Assistant Lecturer**, focusing on intelligent systems for decision support. I am also a certified trainer in **Business Intelligence, Data Analytics, and Artificial Intelligence**.
-
-My main areas of interest include **Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), Business Intelligence, Data Analytics, and Generative AI**, with a particular interest in applying these technologies to real-world organisational problems.
-
-I am also involved in **academic research**, particularly in NLP and sentiment analysis, exploring the application of machine learning and Large Language Models (LLMs) to financial and textual data.
-
-I combine **business and management knowledge with technology** to transform data into useful information, support better decisions, and create measurable value for organisations.
+My academic and technical interests focus on applying data and AI to real-world problems, particularly **Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), Large Language Models, Business Intelligence, and Decision Support Systems**.
 
 ---
 
-## 🔍 Areas of Interest
+## Areas of Interest
 
-- **Artificial Intelligence & Data Science** — Machine Learning, Deep Learning, Natural Language Processing
-- **Business Intelligence & Analytics** — Data Analysis, Business Analytics, Decision Support Systems
-- **Information Systems & Software Development**
-- **Management & Accounting**
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7B2CBF?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0096FF?style=flat-square)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-00897B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5C6BC0?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1565C0?style=flat-square)
+![Software Development](https://img.shields.io/badge/Software%20Development-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Information Systems](https://img.shields.io/badge/Information%20Systems-455A64?style=flat-square)
 
 ---
 
-## 🤝 Support / Contribute
+## Selected Projects
 
-If you find my work useful and would like to support ongoing development and knowledge sharing, you can do so here:
+| Project | Focus | Technologies |
+|---|---|---|
+| [Denarius AI](https://github.com/ruialexrib/denarius-ai) | AI-assisted personal finance and analytics | .NET · SQL Server · LLMs · Docker |
+| [Portuguese Legal RAG](https://github.com/ruialexrib/legal-rag-pt) | Local RAG over Portuguese legal documents | Python · Qdrant · Ollama · BGE-M3 |
+| [CLARA](https://github.com/ruialexrib/clara-rag-pt) | Local conversational legal RAG system | FastAPI · Qdrant · Ollama · Docker |
+| [Legal Embeddings Fine-Tuning](https://github.com/ruialexrib/legal-embeddings-finetuning-pt) | Domain adaptation of embeddings for Portuguese legal retrieval | BGE-M3 · LoRA · PEFT · PyTorch |
+| [Market Basket Analysis](https://github.com/ruialexrib/powerbi-market-basket-analysis) | Association-rule mining integrated with Power BI | Power BI · Python · Apriori |
+| [Transformer Sentiment Analysis](https://github.com/ruialexrib/powerbi-transformers-sentimentanalysis) | NLP sentiment analysis integrated with BI | Power BI · Python · Transformers |
+| [n8n AI & BI Briefing](https://github.com/ruialexrib/n8n-ai-business-intelligence-briefing) | Automated AI and BI executive briefing | n8n · Ollama · Docker |
+| [Invoice Extraction](https://github.com/ruialexrib/n8n-invoice-extraction) | AI-assisted invoice extraction workflow | n8n · LLMs · Automation |
+
+---
+
+## Research & Applied AI
+
+My research interests include **Natural Language Processing and financial sentiment analysis**, with work comparing classical NLP and Machine Learning approaches with neural networks and transformer-based language models.
+
+More recently, I have been exploring **local and domain-specific AI**, including RAG architectures, embedding models, semantic retrieval, fine-tuning, hybrid retrieval, and the integration of LLMs into business applications and analytical workflows.
+
+---
+
+## Technology
+
+**Data & BI**  
+Power BI · SQL · Data Warehousing · ETL · Analytics · Decision Support
+
+**AI & Machine Learning**  
+Python · Machine Learning · NLP · Transformers · Embeddings · RAG · LLMs · Ollama
+
+**Software & Infrastructure**  
+.NET · ASP.NET Core · REST APIs · Docker · Git · GitHub · Azure · n8n
+
+---
+
+## Open Source & Knowledge Sharing
+
+This profile contains projects developed for **experimentation, applied research, teaching, and knowledge sharing**. My repositories cover topics ranging from Business Intelligence and Machine Learning to local AI, RAG systems, workflow automation, and software development.
+
+<div align="center">
+
+[Explore my repositories](https://github.com/ruialexrib?tab=repositories) · [Visit my website](https://ruialexrib.github.io)
+
+</div>
+
+---
+
+## Support
+
+If you find my projects or technical content useful and would like to support further open-source development and knowledge sharing:
 
 <div align="center">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ruialexrib)
 
 </div>
-
-Your support helps me continue building and sharing open-source projects and technical content. 🙌
-
----
-
-<div align="center">
-
-📫 Feel free to explore my public [repositories](https://github.com/ruialexrib?tab=repositories) or connect with me.
-
-</div>
-
