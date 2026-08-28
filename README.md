@@ -33,24 +33,11 @@ My academic and technical interests focus on applying data and AI to real-world 
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-00897B?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-5C6BC0?style=flat-square)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1565C0?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Software Development](https://img.shields.io/badge/Software%20Development-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Information Systems](https://img.shields.io/badge/Information%20Systems-455A64?style=flat-square)
-
----
-
-## Selected Projects
-
-| Project | Focus | Technologies |
-|---|---|---|
-| [Denarius AI](https://github.com/ruialexrib/denarius-ai) | AI-assisted personal finance and analytics | .NET · SQL Server · LLMs · Docker |
-| [Portuguese Legal RAG](https://github.com/ruialexrib/legal-rag-pt) | Local RAG over Portuguese legal documents | Python · Qdrant · Ollama · BGE-M3 |
-| [CLARA](https://github.com/ruialexrib/clara-rag-pt) | Local conversational legal RAG system | FastAPI · Qdrant · Ollama · Docker |
-| [Legal Embeddings Fine-Tuning](https://github.com/ruialexrib/legal-embeddings-finetuning-pt) | Domain adaptation of embeddings for Portuguese legal retrieval | BGE-M3 · LoRA · PEFT · PyTorch |
-| [Market Basket Analysis](https://github.com/ruialexrib/powerbi-market-basket-analysis) | Association-rule mining integrated with Power BI | Power BI · Python · Apriori |
-| [Transformer Sentiment Analysis](https://github.com/ruialexrib/powerbi-transformers-sentimentanalysis) | NLP sentiment analysis integrated with BI | Power BI · Python · Transformers |
-| [n8n AI & BI Briefing](https://github.com/ruialexrib/n8n-ai-business-intelligence-briefing) | Automated AI and BI executive briefing | n8n · Ollama · Docker |
-| [Invoice Extraction](https://github.com/ruialexrib/n8n-invoice-extraction) | AI-assisted invoice extraction workflow | n8n · LLMs · Automation |
 
 ---
 
