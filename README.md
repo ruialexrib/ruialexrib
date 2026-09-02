@@ -20,7 +20,7 @@ I work at the intersection of **data, technology, and management**, combining ex
 
 I hold a **Master's degree in Business Intelligence and Analytics**, a postgraduate degree in **Enterprise Information Systems Management**, and a Bachelor's degree in **Accounting and Management**.
 
-Professionally, I work as a **Data Management & Analytics Specialist** within an IT department. I also teach as an **Invited Assistant Lecturer**, focusing on intelligent systems for decision support, and work as a certified trainer in **Business Intelligence, Data Analytics, and Artificial Intelligence**.
+Professionally, I work in **Information Systems, Software Development, Business Intelligence, Data Analytics, and Artificial Intelligence** within an IT department. I also teach as an **Invited Assistant Lecturer**, focusing on intelligent systems for decision support, and work as a certified trainer in **Business Intelligence, Data Analytics, and Artificial Intelligence**.
 
 My academic and technical interests focus on applying data and AI to real-world problems, particularly **Machine Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), Large Language Models, Business Intelligence, and Decision Support Systems**.
 
