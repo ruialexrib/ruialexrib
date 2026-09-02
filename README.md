@@ -38,6 +38,8 @@ My academic and technical interests focus on applying data and AI to real-world 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Software Development](https://img.shields.io/badge/Software%20Development-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Information Systems](https://img.shields.io/badge/Information%20Systems-455A64?style=flat-square)
+![Accounting](https://img.shields.io/badge/Accounting-2E7D32?style=flat-square)
+![Management](https://img.shields.io/badge/Management-546E7A?style=flat-square)
 
 ---
 
